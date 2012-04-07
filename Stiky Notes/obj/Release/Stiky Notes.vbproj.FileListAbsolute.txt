@@ -1,0 +1,56 @@
+G:\MyProjects\Stiky Notes\Stiky Notes\bin\Release\Stiky Notes.exe
+G:\MyProjects\Stiky Notes\Stiky Notes\bin\Release\Stiky Notes.pdb
+G:\MyProjects\Stiky Notes\Stiky Notes\bin\Release\Stiky Notes.xml
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\ResolveAssemblyReference.cache
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\Stiky_Notes.Note.resources
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\Stiky_Notes.Resources.resources
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\Stiky Notes.vbproj.GenerateResource.Cache
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\Stiky Notes.exe
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\Stiky Notes.xml
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\Stiky Notes.pdb
+G:\MyProjects\Stiky Notes\Stiky Notes\bin\Release\Stiky Notes.exe.manifest
+G:\MyProjects\Stiky Notes\Stiky Notes\bin\Release\Stiky Notes.application
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\Stiky Notes.exe.manifest
+G:\MyProjects\Stiky Notes\Stiky Notes\obj\Release\Stiky Notes.application
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.exe
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.xml
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.pdb
+D:\Projects\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.exe.manifest
+D:\Projects\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.application
+D:\Projects\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.exe
+D:\Projects\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.pdb
+D:\Projects\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.xml
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky_Notes.Note.resources
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky_Notes.Resources.resources
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.vbproj.GenerateResource.Cache
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.exe.manifest
+D:\Projects\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.application
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.exe
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.xml
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.pdb
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.exe.manifest
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.application
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.exe
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.pdb
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.xml
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky_Notes.Note.resources
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky_Notes.Resources.resources
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.vbproj.GenerateResource.Cache
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.exe.manifest
+D:\Projects\VB.net\Stiky Notes Collection\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.application
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.exe
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.xml
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.pdb
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.exe.manifest
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.application
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.exe
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.pdb
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\bin\Release\Stiky Notes.xml
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky_Notes.Note.resources
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky_Notes.Resources.resources
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.vbproj.GenerateResource.Cache
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.exe.manifest
+C:\Users\Sniper\Desktop\Stiky Notes v2.0\Stiky Notes\obj\Release\Stiky Notes.application
