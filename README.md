@@ -2,9 +2,6 @@ Project State
 =============
 The project is Stable
 
-Known Bugs
-==========
-Matrix Rank is not correct always
 
 AUTHORS
 =======
